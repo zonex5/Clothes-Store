@@ -1,2 +1,2 @@
 # Clothes Store
- Программа для управления складом одежды
+A program for managing clothing inventory (The practical part for the diploma thesis)
